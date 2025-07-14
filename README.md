@@ -23,4 +23,4 @@ This repository contains a simple space shooter game made with pygame
 
 **Game start screen**
 
-![Game start screen](BG)
+![Game start screen](BG.png)
